@@ -1,4 +1,3 @@
-
 deposito = 0
 saque = 0
 saldo = 0
